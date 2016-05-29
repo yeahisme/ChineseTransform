@@ -1,7 +1,6 @@
 # ChineseTransform
 ## 用法 ##
 引用 ChineseTransform.js 
-sd
 ```javascript
 var chineseTransform = new ChineseTransform()
 var res = chineseTransform.transformIntoChineseNum(4294967295)
