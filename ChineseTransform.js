@@ -1,3 +1,7 @@
+/*
+	author:zhangdonghua
+	qq:1141372981
+*/
 //用法 
 //var chineseTransform = new ChineseTransform()
 //var res = chineseTransform.transformIntoChineseNum(4294967295)
